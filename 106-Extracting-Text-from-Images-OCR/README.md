@@ -1,4 +1,5 @@
 ## Install Tesseract Locally
+
 The installation requires a few steps:
 
 1. First, we need to install the C++-based engine [Tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html). You can find some installation guides for different operating systems in the [Tesseract documentation](https://tesseract-ocr.github.io/tessdoc/Installation.html). If you are on a Windows system, you can use the [Windows installer](https://github.com/UB-Mannheim/tesseract/wiki) provided by the University Mannheim.
